@@ -1,7 +1,7 @@
 # 👋 Sobre mim
 
 Olá! Meu nome é **Wesley Reinert da Silva**, tenho 28 anos e sou de **Joinville/SC**.  
-Atualmente curso o 3º semestre do **técnico em Desenvolvimento de Sistemas no SENAI** e atuo na área de tecnologia da **Alva Personal Care**.
+Atualmente curso o 4º semestre do **técnico em Desenvolvimento de Sistemas no SENAI** e atuo na área de tecnologia da **Alva Personal Care**.
 
 Sou entusiasta de tecnologia e desenvolvimento web, com foco em **Django**, e possuo experiência prática nas seguintes tecnologias e atividades:
 
